@@ -1,0 +1,63 @@
+.main-container{
+    width: auto;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    background-color: #ddb892;
+}
+nav{
+    
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    align-items: center;
+}
+
+nav ul li{
+    text-decoration: none;
+}
+
+.sub-main{
+    margin-left: 80px;
+    background-color: bisque;
+}
+
+form input{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+.categories{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 30px;
+    width: 10px;
+    height: 10px;
+    gap: 30px;
+    
+    
+    
+}
+.categories img{
+    cursor: pointer;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+.categories h1{
+    text-align: center;
+    margin-left: 60px;
+}
+
+.categories h6{
+    font-size: 25px;
+    font-weight: 100;
+
+}
+
