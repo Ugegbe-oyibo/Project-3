@@ -29,3 +29,5 @@ function displayRecipes(recipes) {
 
    resultsList.innerHTML = html;
 }
+
+console.log(displayRecipes);
